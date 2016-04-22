@@ -1,0 +1,55 @@
+035⁶.ss )190( &103⁴-
+
+adde Logarithmum interpolatoriurn tabulae ,τ- 2, 0359928
+
+ 
+
+ 
+
+ 
+
+et Logarithmum δῖ, ..—.. 2, 3624825
+habebitur Log. correctionis subtrad'tiuae :36608522 ⁴
+Hinc eorrectio z - 4578.
+
+erat autem quadratum cel. prope verum z 241433
+Hinc quadratum verum celeritatis quaes. :z 236855.
+et ipsa celeritas quaesita = 486, 6.
+
+quae igitur non nisi nouem partibus decimalibus a vera
+z 485, 7 in excelsu aberrat.
+
+Exemplum 2.
+
+Globus, cuius diameter z 1.ped. rhen. et cuius
+-pondus z 138 libr. quarum 64 efficiunt pondus pedis a·
+quae cubici rhen. proiicitur sub angulo 450 celeritate ini-
+tiali .-. 400. ped. rhen. atque ex tabulis Eulerianis colligitur
+amplitudo iactus super plano horizontali; 2467. ped. rhen.
+
+Inucrso igitur casu, quaeritur celeritas initialis glo&
+bo imprimenda, vt sub datis hisce circumstantiis obiectum
+feriatur ad 2467. ped. rheu. remotum.
+
+Erit ergo P: 1383 5: 13 ss: 2467.
+Hinc argumentum exempli :QZ—9: 17, 876812.
+In tabula angulo projectionis 45⁰ respondente, inuenitur
+
+ 
+
+argumentum proxime maius -τ 18, 367821.
+cui respondet Log. coefficieutis z 3, ¹0436.2—0:
+adde Log. ὁὶ, ’- 2, 1398791.
+
+...ψ--
+
+ΗΙΙ ἱ
+
+crit Log. quadrati prope veri ccl. quaes. 5, 2442411.
+hinc quadratum prope verum cel. quaes. 175485.
+atquc ipsa celeritas quacfita prope vera -— 419·
+
+quae
+
+l
+

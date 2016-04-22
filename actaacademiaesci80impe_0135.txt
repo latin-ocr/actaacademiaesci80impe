@@ -1,0 +1,36 @@
+»ἓξ >89( Q<-
+Problbme 3.
+
+Trouver Pinte’grole de vene e‘quation differentielle* du troi·
+stc‘me degre‘: Az÷BP÷C Q-k—DR: 0.
+
+Solution.
+
+Soit V:- a z-—}—h P÷cQ:u”9(: t, & nous
+aurons
+naz÷an÷an1au(2—1)÷bu(fi)÷cu<{—‘})
+ou bien
+—naz4(a—(n—1)b)P÷(b—<n—2)c)Q÷cR:0,
+&quation dont la comparaison avec la proposoe· donne
+czDg h:C÷(n-2)D; a:B÷(n-1)C-}-(n-—1)(n·—2)D&
+n(n—-1)(n— 2)D÷n(n-1>C÷nB÷A:0.
+Soyent les racines de cette &quation nzoe, ηῑ-β, ητνγ,
+
+& les valeurs correspondantes aux a, b, c, soyent α’, b1, ε’,
+pour n: β & (1¹¹, θ’, cu, pour ²²:7² nous aurons:
+
+‚ αεΔῐ-ὂΡ-ξ-ερῑτιτι &kt
+αῖς-ι- b1P-1-c1Q2-ussffi : t
+a‘¹z-}-b¹⁴P—}- c¹‘Q: ιιὙ ΕΞ ; c
+d'on l'on tire aisement, apr& avoir &limim‘e les P & Q,
+unc expreffion pour z de cette forme:
+zzzc“(1>:t÷us³(D‘:t-}—u7<1>¹¹:t.
+
+On voit affc'ss de quelle sagon on doit continuet ces
+operations pour les &quatiens des.degr(=s superieurs &
+mc'me en general pour une &quation indefinie
+
+Az÷BP÷CQ÷DR÷ES÷ δία-το
+
+Λῐὶα Acad. Imp. Sc. Tom. JV, P. Ι. M On
+

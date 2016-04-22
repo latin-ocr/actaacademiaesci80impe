@@ -1,0 +1,39 @@
+»32³3 ἓ ⁵9 (553⁴-
+
+vbi numeri, qui succeffiue ab N subtrahuntur, constituunt
+manifesto nostram {etiem numerorum pentagonalium
+
+1, 2, ς, 7, 12, 15, 22, 26, 35, 40, etc.
+ita vt termini, ex numeris imparibus pro n assumtis ori-
+undi habeant fignum 4, qui vero ex paribus nascuntur
+fignum —. Tum vero, quouis casu has formulas eo vs·
+que continuari oportet, quoad numeri post ssgnum Ι
+
+scripti non euadant negatiui; at fi occurrat formula
+
+s(N —N), eius 1‹›c0 scribi debet ipse numerus N. Ita fi
+sumamus N: 12, erit
+
+s12=s11÷s10—s7-s5÷s0
+
+ideoque erit
+s12312-1-'18—8-6-1-12z28,
+
+At vero fi sumamus Nz13, erit
+s131s12÷s11—ss—s6÷s1
+
+fiue erit
+[13:28-1-12—15-12-3-1114.
+
+§. 6. Quoniam igitur ordo, quo summae diuiso-
+rum progrediuntur, merito maxime irregularis videtur, ne-
+mini certe in mentem venire potuit, eum per numeros
+pentagonales explorari potuisse, ex quo ista speculatio v-
+tique maxime est admiranda. Afferam autem adhuc ali·
+am eiusmodi proprietatem, quae quidem cum expofita
+arcstiffime est connexa, attamen ad plures non ’minus ad·
+mirandas proprietates perducit, quae omnes pariter in na-
+tura numerorum nostrorum pentagonalium sunt fundatae.
+
+H2 §. 7.
+

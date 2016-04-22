@@ -1,0 +1,48 @@
+Tab. V.
+
+fig· ς
+
+aaz )¹44( 5:⁶³3<-
+
+drato distantiae reciproce est proportionalis, pro Apogeo
+fiet uzo, 00931, pro Perigeo vero v:0‚01463. Hoc
+igitur modo harum litterarum valores minimi, medii et
+maximi ita se habebunt:
+
+ 
+
+ 
+
+ 
+
+ 
+
+Valor min. med. max.
+m 0, 23924 0, 25183 0, 26442
+n o, 59080 0, 70896 0, 82712
+ν 0, 00931 0,01197 0,01463
+
+Sufficiet autem hos valores noffe, quoniam ridiculum so·
+ret, in hoc negotio minutiis inhaerere.
+
+Applicatio Formulae inuentae
+ad superficiem sphaericam.
+
+§. ις. Repraesentet iam circulus AB CD globum
+terraqueum, in cuius superficie notentur puncta S et L,
+quibus hoc tempore Sol et Luna verticaliter immineant,
+ita vt Sol versetur in zenith loci S, Luna vero in zenirh
+loci L, et quaeramus statum maris, quem pro hoc lumi-
+narium {itu esset accepturum. Consideremus igitur in
+maris superficie quodcunque punCtum Z, qnod supra li-
+bellam naturalem ab actione luminarium attollatur per in·
+teruallum zv, in pedibus Parifinis determinandum. Hinc
+ergo ad punCta S et L ducantur arcus circulorum maxi-
+morum ZS ct ZL, qui vocentur ZS 1·sp et ZL: ψ,
+ac manifestum est angulum Φ exprimere distantiam Solis
+a punc'to zenith loci Ζ, similique modo angulus ῴ dis-
+tantiam Lunae ab eodem zenith‚ quibus politis spatium
+eleuationis v supra libellam definietur hac aequatione:
+
+v:
+

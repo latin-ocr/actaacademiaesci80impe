@@ -1,0 +1,51 @@
+»ἓξὲξ )58( &ir-3⁴·
+
+tur non respicio; curn mihi potius propositum fit quasss
+dam proprietates admirabiles commemorare, quibus nu-
+meri pentagonalcs prae omnibus reliquis polygonalibus
+sunt praediti. Atque hic occurrit iila insignis horum nu-
+merorum proprietas, qua iam olim ostendi, istam nu-
+merorum pentagonalium seriem tam ,πᾶα cum progressio-
+ne, quam summae diuisorum numerorum naturalium con·
+stituunt, effe connexam, vt eius ope adeo lex istius se-
+riei maxime irregularis assignari poffit, id quod breuiter*
+repetere operae pretium erit.
+
+§. 4. Quod fi quilibet numerus N cum suis di-
+risoribus in vuam summam colligatur, quam summam
+hoc charactere: JN indicemus, ex numeris naturalibus se·
+quens nascetur series primo intuitu maxime irregularis:
+
+N 1‚2‚3,4‚5, 6‚7‚ 8, 9, 10,11
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+π ¹, 32 42 7, ⁶⁷ ¹2, 8, 15, 13, 18, 12
+
+vbi termini tam inordinate progrediuntur, dum modo
+crcicunt modo decrescunt. vt vix quisquam corum le-
+gem deteget, quandoquidem ista series ordinem numerorum
+primorum manifesto in se inuoluit.
+
+ς. ς. Interim tamen demonstr-mi, istam progres-
+sionem, quantumuis irregularem, ad classem ferierum re-
+currentium effe referendam, et singulos cius terminos se-
+eundum certam legem ex praecedentibus determinari posse.
+Quod si enim sN denotet summam omnium diuisurum
+huius numeri N, ipso non excepto, iuueni {emper sore
+
+sNzs(N—¹)÷s(N—2i-s(N—s)—s(N—7)÷s(N-12)
+÷J<N- xsi-stN—22>--s<N—2⁶>÷ etc. vbi
+

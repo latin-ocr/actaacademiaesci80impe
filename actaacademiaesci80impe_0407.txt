@@ -1,0 +1,36 @@
+”5023 ’) 361 ( Q<-
+
+getur, quippe quo inuento determinatio alterius societ re-
+liquorum ‘Elementorum nullam habebit difficultatem. Sup-
+ponamus igitur iam inuentam essc direstionem axis FTU,
+statutisque M V, NX semiparametro principali aequalibus,
+ducantur rectae VT, XU, istis MF, N F normales, quae
+axi in punctis T et U occurrant3 tum vero ducta suppo-
+natur TY normalis ad NF et ipsi UX parallela, et iun-
+gantur M T, N U. Quia igitur M V aequalis semipara-
+metro principali , et VT normalis ad VM, erit iunela
+TM normalis ad Sectioncm Conicam in puncto M. Si-
+mili quoque ratione erit UN normalis ad Seffionem Co-
+nicam in puncto N. Tum vero fi punc‘ta Μ, N iunCta suppo-
+nantur cum altero foco f, patet per ea quae in conicis
+detronstrantui ‚angulos F Mf, F Ns bisecari per renas MT,
+NU, vnde fiet MF2TF1MF÷Mf=FszN÷sN
+:Ffz NF. UF. Atqui est UF· TF: XF: YF, hinc
+erit NF: MF: XF: YF, quum igitur deuturNF, MF,
+XF, dabitur-YF, ideoque punc'tum Y, hinc rec‘ia YF nor-
+malis ad NF, ideoque punffilm T iu quo restae VT,
+ΥΤ se intersecant.
+
+ς, 30. Solutio Problematis igitur ita componetur,
+vt per X ducatur linea X Z ipfi NM parallela, tum vero
+centro F interuallo FZ, resecetur FY‚ et ducatur Y T
+normalis ad NF, et VT normalis ad ΜΡ, harum recia-
+rum interfectio T cum pund‘to F iuncta, dabit axiu prin-
+cipalem orbitae. Ex construetione enim allata patet effe
+YF:XF:MF:NF‚1unc TFzUFzMFzNF et
+alternando T F: M F Ξ U F: NF, cx quo patet effe
+T F: M F iu data ratione, hincque colligitur axem principa-
+lem sectionis conicae cum linea FTU coinciderc, s1 ca
+
+Aera Acad. Imp. Sc. Tom. JV. P. 1. Ζ z quae
+

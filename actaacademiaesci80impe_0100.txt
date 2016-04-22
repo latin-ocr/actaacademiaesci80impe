@@ -1,0 +1,39 @@
+»2⁸13 >⁵4( 5323·-
+
+binisque terminis colleffis elicitur
+sz⁵'—l-x⁵⁷(1-x⁶)÷x”(1—x⁶)(1-x')
+÷x⁶'(1—x⁰)(1—x⁷)(1—x')etc.
+
+§- 16. quentis igitur his valoribus litterarum
+A, Β, C, D, E, fi singuli succeffiue substituantur, resulta·
+bit ista series:
+
+1 — x- xx, ÷x⁵ ÷x'‚ -x¹¹—x'⁵, -l-x”÷x¹⁶, —2”-x⁴⁹‚ -l- etc.
+Hic autem ordo exponentium facilius perspicitur. Cum
+enim in valoribus litterarum A, Β, C, D, primo constitu·
+tis primi termini simplices essent κ’, x', 2¹¹⁸, x'‘'‚ x·⁵, ex-
+ponentes manifesto sunt numeri trigonales triplicati, vnde
+generatim pro numero n erit iste exponens 'UT—¹1¹. Ve-
+
+rum hi termini sequuntur binas potestates ipfius x pro-
+cedentes per eandem differentium n, vnde numerum n ab
+hac formula bis subtrahendo orientur binae potestates in
+seriem quaesitam ingredientes , quarum exponentes conse-'
+quenter erunt ''¹¹24'' et ‘'ms-⁸.
+
+ 
+
+ 
+
+ 
+
+ς. 17. Hinc igitur viciffim patet, seriem
+
+s:1-.1·—.tx-†-x⁵-†-x'—x¹¹—x¹⁵-l-.1⁴²³-·}-x² —x'⁵—etc.
+in infinitum continuatam habere infinitos faetores, qui sci·
+licet erunt (1-.1·)‚ 1—.2·x‚ 1—x’, 1—x⁴, 1—x⁵‚ etc. ita
+vt si primo diuidatur per 1 —.1·, tum vcro quotus per
+ι -- xx, iste quotus porro per 1 -Μ, hocque modo in in-
+finitum diuisio continuetur, vltimum quotum resultantem
+vnitati aequalem effe oportebit.
+

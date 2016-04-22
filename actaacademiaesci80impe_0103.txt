@@ -1,0 +1,43 @@
+»2233 > 57 ( 2103«-
+
+tur. Hic autem binos coniunctim exhibeo, qui ex eodem
+numero n in formula ”²2¹ssss oriuntur, quoniam iu se-
+
+ 
+
+quentibus eos horum numerorum distinguemus, qui vel
+ex numeris paribus vel imparibus pro n assumtis nascuntur.
+
+ξ. 2. Quod fi hos numeros ordine magnitudinis
+in vnam seriem coniiciamus, orietur ista progreffiOt
+
+0, 1> 2, 5⁶2 7, 12, 15, 22, 26, 35, 40, 512 57³ etc·
+cuius ordo manifesto est interruptus, quoniam progrcffio
+differentiarum hinc fit
+
+1, 1² 3, 2, 5¹² 3, 7² 4, 9² 5⁶, 11, etc·
+quae mixta est ex serie numerorum naturalium et impa-
+rium. At vero ista series ad continuitatem perduci po-
+test, fi post tertium quemque terminum certa fractio in-
+terpoletur. Scilicet inter terminos 2 et 5 constituatur ¹3⁰,
+tum vero αξ inter 7 et 12, porro ἕξ inter 15 et 22, ita
+vt series completa fit
+
+10 28
+
+1, 2, Ξ, 5, 77 Ξ) 12, 15⁶, ⁵3⁵³ 22⁷ 26, etc·
+fic enim series differentiarum lege continua procedet, dum
+erit
+
+1, ξ) {a 2) ἓν ἓν 3’130'1315 4> etc·
+Manifestum autem est, illam seriem oriri, fi omnes nu-
+meri trigonales per 3 diuidantur. Hinc igitur iam pul·
+chra se offert proprietas nostrorum numerorum pentago-
+
+uallum, quod singuli ter sumti euadant numeri trigonales.
+
+ξ. 3. Tales autem prop1·ietate3‚ quas immediate
+ex formulis generalibus derinare licet, etiam in aliis nu-
+meris polygonalibus locum habere possunt, ad quas igi-
+Αὸἰα Acad. Imp. Sc. Tom. 1V. P. Ι. H tur
+
